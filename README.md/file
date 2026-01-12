@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Analysis Dashboard
+# 📊 Superstore Sales & Profit Analysis Dashboard
 
 ![Main Dashboard Overview](https://github.com/M-elmojtaba-code/-Superstore-Sales-Analysis-R-Power-BI/blob/main/Screenshots/dashboard%20_overview.png?raw=true)
 *Figure 1: Interactive Power BI dashboard providing an overview of sales, profit, trends, and regional performance.*
@@ -45,7 +45,7 @@ All data cleaning, analysis decisions, and dashboard design were reviewed, imple
 ---
 
 ## 🔍 Key Business Insights
-This section summarizes the main insights derived from the Power BI dashboard.
+The following insights were derived from interactive filtering and visual exploration of the Power BI dashboard.
 
 ### 1️⃣ Category Contribution to Sales
 The **Technology** category accounts for the **highest percentage of total sales**, making it the primary revenue-driving category.  
@@ -115,7 +115,7 @@ The analysis provides clear insights into sales performance, profitability, and 
 ## 📬 Contact
 👤 **Mohammed Elmojtaba**  
 📧 Email: mohammed.elmojtaba@hotmail.com
-💼**LinkedIn:** [https://linkedin.com/in/mohamedelmojtaba]
-🐙 **GitHub:** [https://github.com/M-elmojtaba-code]
+💼 LinkedIn: [https://linkedin.com/in/mohamedelmojtaba]
+🐙 GitHub: [https://github.com/M-elmojtaba-code]
 
 *Feel free to connect with me for any inquiries or data collaborations!*
